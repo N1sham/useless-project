@@ -1,0 +1,5 @@
+Used libraries:
+
+import speech recognition as sr
+import pyttsx3
+import random
